@@ -1,0 +1,7 @@
+<img src = ISTN.png>
+<br>
+NOVRESA DWI YUDANTI 
+<br>
+18360009
+<br>
+TEKNIK INFORMATIKA
